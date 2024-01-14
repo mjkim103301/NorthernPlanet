@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/JD6WL4Y.png" width="300px"/>
 ### 프로젝트 소개
-  * [Focus HomePage](https://k5a204.p.ssafy.io)
+  * [북쪽행성 Hompage](https://northernplanet.p.ssafy.io/)
   * [YouTube](https://www.youtube.com/watch?v=hzazfNSwmiw)
   * [Notion 개발 WIKI](https://www.notion.so/Put-your-hands-up-7c7767c9ba724182a6c1618d8536bd89)
   * **북쪽행성**은 온라인 발표환경에서 발표를 쉽게 할 수 있게 도와주는 서비스입니다. 
